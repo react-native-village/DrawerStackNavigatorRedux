@@ -1,4 +1,4 @@
 # Simple Drawer 
 ### React-Native
 
-<img src="./intro.gif" width="300">
+<img src="./intro.gif" width="500">
